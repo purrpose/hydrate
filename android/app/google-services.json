@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811210150048",
+    "project_id": "hydrate-26b5b",
+    "storage_bucket": "hydrate-26b5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811210150048:android:c14b936828e043b516f9c5",
+        "android_client_info": {
+          "package_name": "com.example.hydrate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQANSMDnx6NprZPveidrhBxrkRfoDsY20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
